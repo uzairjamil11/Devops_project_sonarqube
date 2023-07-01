@@ -16,7 +16,7 @@ services:
     volumes:
       - ./php-app:/var/www/html
     ports:
-      - 80:80
+      - 5555:80
     depends_on:
       - mysql
     command: bash -c "docker-php-ext-install pdo pdo_mysql && apache2-foreground"
