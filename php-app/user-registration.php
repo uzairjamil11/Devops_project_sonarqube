@@ -7,6 +7,9 @@ phpinfo();
 exit;
     $registrationResponse = $member->registerMember();
 }
+phpinfo();
+exit;
+
 ?>
 <HTML>
 <HEAD>
