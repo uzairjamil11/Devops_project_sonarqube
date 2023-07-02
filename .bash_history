@@ -21,3 +21,28 @@ ls
 sudo -i
 passwd
 sudo su
+ls
+cd php-app/
+ls
+sudo su
+ls
+cd ..
+ls
+ssh
+ls
+cd home
+ls
+cd ubuntu
+ls
+ssh --version
+sudo apt install openssh-server
+apt-get update
+sudo apt-get update
+ls
+nano /etc/ssh/sshd_config)
+nano /etc/ssh/sshd_config
+cd /etc/ssh
+ls
+cat ssh_host_rsa_key
+ls -al
+sudo su
