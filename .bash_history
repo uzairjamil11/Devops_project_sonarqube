@@ -48,3 +48,5 @@ ls -al
 sudo su
 dufo du
 sudo su
+ls
+sudo su
