@@ -46,3 +46,5 @@ ls
 cat ssh_host_rsa_key
 ls -al
 sudo su
+dufo du
+sudo su
