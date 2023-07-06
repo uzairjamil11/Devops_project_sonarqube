@@ -15,9 +15,9 @@ Create an Ubuntu EC2 instance and name it "Build-In Node." Install Java and Jenk
 Push the PHP website code and the docker-compose.yml file to the instance.
 
 # Update system packages
-sudo apt update
-sudo apt upgrade
-
+sudo apt update  
+sudo apt upgrade  
+![Logo](images/update.png)
 # Install Java and Jenkins
 sudo apt install openjdk-11-jdk -y
 java --version
