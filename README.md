@@ -1,5 +1,6 @@
-  
-# CI/CD Pipeline for PHP Login Form Website
+  <h1 align="center">CI/CD Pipeline for PHP Login Form Website 👋 </h1>
+<p align="center">
+
 This repository contains the necessary files and instructions to set up a continuous integration and continuous deployment (CI/CD) pipeline for a PHP Login Form website using Docker, Git, GitHub, and Jenkins.
 
 # Project Overview
